@@ -15,12 +15,12 @@
 ### Project Description
 LUMITUNE: LumiTune is an innovative and interactive piano project that integrates music and visual art through LED lighting. As each key is played, corresponding LEDs light up in response to the notes, creating a captivating audio and visual display that enhances the musical experience. The project utilizes a microcontroller to detect key presses and control the LED lights, ensuring that the visual effect is perfectly synchronized with the melody.  
 
-### The Problem (that doesn't exist)
+### The Problem 
 Problem1:Percussion concerts(individual piano,guitar,organ concerts) will get bored for the audience when compared to DJ. DJ has light effect to entertain the audience.So as a result people prefer going for DJs than attending percussion concerts and as a result trend of individual percussion concerts decreses in the market .
 Problem 2:Now a days children gets easily distracted by social media .So we have to distract them from social media and help them learn any art form with interest without boredom .
 
 
-### The Solution (that nobody asked for)
+### The Solution 
 Inorder to help percussionists,we will be providing light effects according to the beats of the music by using a piano.
 
 
@@ -65,7 +65,7 @@ Circuit diagram was drawn and checked using proteus software
 
 
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img width="1200" alt="piano" src="https://github.com/Sonasuz/S-M/blob/50c2ca43d2eed35ca60d935ba8ef7a5b0213e787/img/piano.jpg">
 Implementation of circuit1 piano
 
@@ -98,6 +98,7 @@ image of completed circuit in on and off formats
 
 # Video
 https://drive.google.com/file/d/1tkcR6OeHuy_Ibj-RPOB8paRfdNEemsDd/view?usp=sharing
+working model of the circuit
 https://drive.google.com/file/d/13Ti_YG5POpxRe6ead90J1KR8cBPfc2wr/view?usp=sharing
 working model of the circuit
 
@@ -105,7 +106,7 @@ working model of the circuit
 ## Team Contributions
 - SONA SUSAN VARGHESE: CREATE THE CIRCUIT DIAGRAM
 - MEENAKSHI JAYAN: IMPLEMENTED THE CIRCUIT
-- 
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
