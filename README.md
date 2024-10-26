@@ -106,16 +106,17 @@ For Hardware:
 <img width="1200" alt="implementa" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/final%20implementation.jpg">
 
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/1tkcR6OeHuy_Ibj-RPOB8paRfdNEemsDd/view?usp=sharing
+https://drive.google.com/file/d/13Ti_YG5POpxRe6ead90J1KR8cBPfc2wr/view?usp=sharing
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- SONA SUSAN VARGHESE: CREATE THE CIRCUIT DIAGRAM
+- MEENAKSHI JAYAN: IMPLEMENTED THE CIRCUIT
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
