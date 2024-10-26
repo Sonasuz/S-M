@@ -34,11 +34,7 @@ First circuit will be of normal piano were pressing different switches gives dif
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
 
 For Hardware:
 CIRCUIT 1
@@ -67,26 +63,17 @@ Implementation
 Circuit diagram was drawn and checked using proteus software
 
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 <img width="1200" alt="piano" src="https://github.com/Sonasuz/S-M/blob/50c2ca43d2eed35ca60d935ba8ef7a5b0213e787/img/piano.jpg">
-*Add caption explaining what this shows*
+Implementation of circuit1 piano
 
 <img width="1200" alt="led" src="https://github.com/Sonasuz/S-M/blob/50c2ca43d2eed35ca60d935ba8ef7a5b0213e787/img/led.jpg">
-*Add caption explaining what this shows*
+implementation of circuit2 led blinking according to noise
 
 <img width="1200" alt="fullled" src="https://github.com/Sonasuz/S-M/blob/50c2ca43d2eed35ca60d935ba8ef7a5b0213e787/img/tried%20using%20many%20led.jpg">
-*Add caption explaining what this shows*
+implementation using led
 
 # Diagrams
 
@@ -98,20 +85,19 @@ For Hardware:
 <img width="1200" alt="pianockt" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/piano%20ckt.jpg">
 <img width="1200" alt="ledckt" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/led%20ckt.jpg">
 
-*Add caption explaining the schematic*
+circuit diagram using proteus of ckt1 and ckt2
 
 # Build Photos
 
 <img width="1200" alt="ckt" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/final%20circuit.jpg">
-<img width="1200" alt="implementa" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/final%20implementation.jpg">
 
+<img width="1200" alt="implementa" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/final%20implementation.jpg">
+image of completed circuit in on and off formats
 # Video
 https://drive.google.com/file/d/1tkcR6OeHuy_Ibj-RPOB8paRfdNEemsDd/view?usp=sharing
 https://drive.google.com/file/d/13Ti_YG5POpxRe6ead90J1KR8cBPfc2wr/view?usp=sharing
-*Explain what the video demonstrates*
+working model of the circuit
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - SONA SUSAN VARGHESE: CREATE THE CIRCUIT DIAGRAM
