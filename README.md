@@ -89,29 +89,22 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
+<img width="1200" alt="flow" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/work%20flow.jpg">
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
+<img width="1200" alt="pianockt" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/piano%20ckt.jpg">
+<img width="1200" alt="ledckt" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/led%20ckt.jpg">
+
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+<img width="1200" alt="ckt" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/final%20circuit.jpg">
+<img width="1200" alt="implementa" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/final%20implementation.jpg">
 
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
