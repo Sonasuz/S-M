@@ -93,6 +93,9 @@ circuit diagram using proteus of ckt1 and ckt2
 
 <img width="1200" alt="implementa" src="https://github.com/Sonasuz/S-M/blob/5ad9cf1eab3964a38787c2f73806474ef2363968/img/final%20implementation.jpg">
 image of completed circuit in on and off formats
+
+
+
 # Video
 https://drive.google.com/file/d/1tkcR6OeHuy_Ibj-RPOB8paRfdNEemsDd/view?usp=sharing
 https://drive.google.com/file/d/13Ti_YG5POpxRe6ead90J1KR8cBPfc2wr/view?usp=sharing
